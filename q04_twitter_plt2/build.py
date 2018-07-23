@@ -1,8 +1,8 @@
 # Importing modules and packages
 import matplotlib.pyplot as plt
 import pandas as pd
-from q02_tweet_info.build import q02_tweet_info
 
+from greyatomlib.twitter_sentiment_analysis_new.q02_tweet_info.build import q02_tweet_info
 
 
 def q04_twitter_plt2(twitter_data):
