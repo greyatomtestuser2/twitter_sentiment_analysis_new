@@ -3,7 +3,7 @@
 This assignment comprises of classifying the tweets based on the polarity of tweets generated into three categories i.e positive, negative and neutral.
 
 
-## Write a function `q06_analyze_sentiment` that :
+## Write a function `q05_analyze_sentiment` that :
 
 - Makes use of the csv file created after 'q01_tweet_data' and stores it in a dataframe 
 - Makes use of regex operations to split the string and additional characters in it produce a clean texual data.
